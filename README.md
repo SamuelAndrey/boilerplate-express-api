@@ -38,8 +38,8 @@ boilerplate-express-api-common/
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/boilerplate-express-api-common.git
-   cd boilerplate-express-api-common
+   git clone https://github.com/your-username/boilerplate-express-api.git
+   cd boilerplate-express-api
    ```
 
 2. Install dependencies:
